@@ -1,0 +1,31 @@
+{
+  "name": "readyvein-concept-redesign",
+  "version": "1.0.0",
+  "description": "Redesign project for landing page of the ReadyVein project",
+  "homepage": "https://github.com/vivid-py/ReadyVein-concept-redesign#readme",
+  "bugs": {
+    "url": "https://github.com/vivid-py/ReadyVein-concept-redesign/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivid-py/ReadyVein-concept-redesign.git"
+  },
+  "license": "MIT",
+  "author": "vivid",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite & npx @tailwindcss/cli -i ./input.css -o ./style.css --watch",
+    "host": "vite --host & npx @tailwindcss/cli -i ./input.css -o ./style.css --watch",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.1",
+    "@vitejs/plugin-vue": "^6.0.7",
+    "postcss": "^8.5.15",
+    "tailwindcss": "^4.3.1",
+    "vite": "^8.1.0",
+    "vue": "^3.5.38",
+    "vue-router": "^5.1.0"
+  }
+}
