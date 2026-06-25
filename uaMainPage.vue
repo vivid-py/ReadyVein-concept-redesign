@@ -7,11 +7,11 @@ import UaHeader from './templates/UaHeader.vue';
 <section id="about" class="container md:m-20 m-10">
     <div class="flex flex-col gap-6">
         <p class="text-5xl md:text-7xl font-semibold text-[#272727] animate-opacity-fade transition-opacity animate-opacity-fade-standart">
-            Пристрій, 
+            Пристрій
             <span class="text-[#1565c0]">
                 для <br> пошуку вен
             </span>,<br> який став <br> реальністю. <br>
-            <span class="font-['Manrope'] text-xl md:text-2xl md:max-w-max max-w-52 text-gray-500 font-thin line-clamp-5 animate-opacity-fade-slower">
+            <span class="font-['Manrope'] text-xl md:text-2xl md:max-w-max max-w-52 text-gray-500 font-thin line-clamp-10 animate-opacity-fade-slower">
                ReadyVein — революція в медичних процедурах. <br>Ваш асистент для швидкого, безпечного та точного доступу до вен.
             </span>
         </p>
