@@ -16,7 +16,7 @@ import EnHeader from './templates/EnHeader.vue';
             ReadyVein — a revolution in medical procedures. <br>Your assistant for quick, safe, and precise vein access.
         </p>
         <a href="mailto:alexandra@readyvein.com" class="animate-opacity-fade-slow">
-            <div class="flex justify-center p-4 bg-[#3791f9] w-75 active:scale-95 transition-all duration-300 hover:scale-105 hover:border hover:bg-[#fdfcdc] rounded-2xl text-4xl font-semibold animate-bounce-subtle ">
+            <div class="flex justify-center p-4 bg-[#3791f9] w-75 shadow-xl hover:shadow-2xl active:scale-95 transition-all duration-300 hover:scale-105 hover:border hover:bg-[#fdfcdc] rounded-2xl text-4xl font-semibold animate-bounce-subtle ">
                 Request Demo
             </div>
         </a>
