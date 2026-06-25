@@ -11,12 +11,12 @@ import UaHeader from './templates/UaHeader.vue';
             <span class="text-[#1565c0]">
                 для <br> пошуку вен
             </span>,<br> який став <br> реальністю. <br>
-            <span class="font-['Manrope'] text-xl md:text-2xl md:max-w-max max-w-52 text-gray-500 font-thin line-clamp-10 animate-opacity-fade-slower">
-               ReadyVein — революція в медичних процедурах. <br>Ваш асистент для швидкого, безпечного та точного доступу до вен.
-            </span>
+        </p>
+        <p class="font-['Manrope'] text-xl md:text-2xl md:max-w-max max-w-52 text-gray-500 font-thin leading-tight animate-opacity-fade-slower">
+             ReadyVein — революція в медичних процедурах. <br>Ваш асистент для швидкого, безпечного та точного доступу до вен.
         </p>
         <a href="mailto:alexandra@readyvein.com" class="animate-opacity-fade-slow">
-            <div class="p-4 bg-[#3791f9] w-75 active:scale-95 transition-all duration-300 hover:scale-105 hover:border hover:bg-[#fdfcdc] rounded-2xl text-4xl font-semibold animate-bounce-subtle ">
+            <div class="p-4 bg-[#3791f9] w-75 active:scale-95 shadow-xl hover:shadow-2xl transition-all duration-300 hover:scale-105 hover:border hover:bg-[#fdfcdc] rounded-2xl text-4xl font-semibold animate-bounce-subtle ">
                 Замовити демо
             </div>
         </a>
